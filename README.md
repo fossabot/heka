@@ -1,6 +1,8 @@
 This project is deprecated. Please see [this email](https://mail.mozilla.org/pipermail/heka/2016-May/001059.html) for more details.
 
 # Heka
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fheka.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Fheka?ref=badge_shield)
+
 
 Data Acquisition and Processing Made Easy
 
@@ -27,3 +29,7 @@ Resources:
 * GoDoc package docs: http://godoc.org/github.com/mozilla-services/heka
 * Mailing list: https://mail.mozilla.org/listinfo/heka
 * IRC: #heka on irc.mozilla.org
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fheka.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Fheka?ref=badge_large)
